@@ -136,10 +136,5 @@ The ability to query the value and composition of a portfolio at a certain date
 The ability to save and retrieve portfolios from files
 
 
-When testing, run each test separately and in between tests, delete anything in the savedPortfolios directory.
+If you do testing, run each test separately and in between tests, delete anything in the savedPortfolios directory.
 If not, the computer will take the saved data of the previous test and apply it to the next test.
-
-All of the above functionality works.
-
-
-
