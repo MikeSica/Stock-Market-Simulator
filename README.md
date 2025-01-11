@@ -1,5 +1,5 @@
 Hello!
-This Stock Trading Simulator is a portfolio management tool developed using the Model-View-Controller (MVC) architecture.
+This Stock Trading Simulator is a portfolio management tool developed using the Model-View-Controller (MVC) architecture and has 3 versions each improving on the other.
 It enables users to create, manage, and analyze portfolios with features like real-time stock trading, in-depth performance analysis, and portfolio rebalancing.
 The simulator leverages the Alpha Vantage API to provide real-time data for over NYSE and over 20 years of historical data, replicating real-world trading conditions.
 
